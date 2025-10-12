@@ -1,6 +1,6 @@
-### Hello world!
+### Hi, my name is Ilnur!
 
-My name is Ilnur and I'm a Frontend Engineer.
+I'm a Senior Frontend Developer at @similarweb by day and an AI Engineer by night.
 
 <!--
 **i11v/i11v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
