@@ -1,6 +1,8 @@
 ### Hi, my name is Ilnur!
 
-I'm a Senior Frontend Developer at [Similarweb](https://github.com/similarweb) by day and an AI Engineer by night.
+I've been building for the web since I was 16. My work since has moved through three phases: building websites, frontend engineering, and now AI engineering — building systems and products where AI is the core rather than a feature bolted on the side.
+
+I'm a static-types person. Chasing real type safety for JavaScript, I tried Flow, ReasonML, and TypeScript, and settled on TypeScript. Now I'm betting on Effect.
 
 <!--
 **i11v/i11v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
